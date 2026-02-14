@@ -18,6 +18,7 @@ A non-comprehensive list of shells to test the script with
 - bsd-ksh (on the aur this is the package oksh)
 - busybox sh
 - tcsh
+- yash
 - any other posix shells
 - zsh\*
 
