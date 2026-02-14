@@ -17,7 +17,9 @@ A non-comprehensive list of shells to test the script with
 - ksh
 - bsd-ksh (on the aur this is the package oksh)
 - busybox sh
-- tcsh
-- yash
+- fish
+- mksh
 - any other posix shells
 - zsh\*
+
+\*IMPORTANT: zsh MUST pass all tests before PR — no exceptions!
