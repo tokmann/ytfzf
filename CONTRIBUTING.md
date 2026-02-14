@@ -8,6 +8,12 @@
 
 - Feel free to give yourself a file in the `credits` folder, and add yourself to the table in the README :)
 
+# Commit message format
+
+- Start with lowercase verb: "add feature", "remove deprecated code"
+- Keep first line under 50 characters
+- Separate body with blank line if needed
+
 # Shells
 
 A non-comprehensive list of shells to test the script with
