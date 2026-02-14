@@ -14,7 +14,7 @@
 - Keep first line under 50 characters
 - Separate body with blank line if needed
 
-# Shells
+# Tested shells
 
 A non-comprehensive list of shells to test the script with
 
