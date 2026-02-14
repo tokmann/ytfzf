@@ -22,4 +22,4 @@ A non-comprehensive list of shells to test the script with
 - any other posix shells
 - zsh\*
 
-\*Technically zsh does not have to work because it's not posix compliant, but zsh should work at least some what.
+\*IMPORTANT: zsh MUST pass all tests before PR — no exceptions!
